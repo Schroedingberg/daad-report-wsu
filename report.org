@@ -1,0 +1,18 @@
+#+LATEX_CLASS: koma-article
+#+LATEX_CLASS_OPTIONS:
+#+LATEX_HEADER:
+#+LATEX_HEADER_EXTRA:
+#+DESCRIPTION: 
+#+KEYWORDS:
+#+OPTIONS: toc:nil
+#+SUBTITLE:
+#+DATE: \today
+
+* Bachelorarbeit an der Western Sydney University, Australien
+Ich habe im Sommersemester meine Bachelorarbeit im Fach Wirtschaftschemie an
+der Western Sydney University in Australien (als Student an der Hochschule Fresenius, Idstein)
+geschrieben bzw. die entsprechende Forschungsarbeit geleistet.
+
+
+
+
