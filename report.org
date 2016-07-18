@@ -1,10 +1,10 @@
 #+TITLE:Bachelorarbeit an der Western Sydney University, Australien
 #+LATEX_CLASS: koma-article
 #+LATEX_CLASS_OPTIONS: 
-#+LATEX_HEADER:\usepackage{fontspec} \KOMAoptions{BCOR=3mm} \usepackage[ngerman]{babel} \usepackage[ngerman]{datetime} \recalctypearea
+#+LATEX_HEADER:\usepackage{fontspec} \KOMAoptions{BCOR=3mm} \usepackage[ngerman]{babel} \usepackage{layouts}
 #+LATEX_HEADER_EXTRA:
-#+DESCRIPTION: 
-#+KEYWORDS:
+#+DESCRIPTION: Erfahrungsbericht für PROMOS/DAAD
+#+KEYWORDS: DAAD PROMOS Wirtschaftschemie Australien
 #+OPTIONS: toc:nil date:nil
 #+SUBTITLE: Ein Erfahrungsbericht
 #+DATE: \today
@@ -124,11 +124,22 @@ Ich habe ca. eine Woche vor Reiseantritt einen Koffeinentzug durchgeführt, da i
   Forschungsgruppe war und keinerlei Vorlesungen hatte. Ich habe jedoch von
   anderen deutschen Studenten gehört, dass es auch Kooperationen mit deutschen
   Universitäten gibt, jedoch (noch) nicht für die naturwissenschaftliche
-  Fakultät.
-  Der Campus ist aufgeteilt in Nord und Süd.
-  Der Nordcampus (naturwissenschaftliche Fakultät) ist noch sehr altmodisch, zieht jedoch bald in
-  ein neues Gebäude um.
-  Bezüglich der Ausstattung kann ich nur die NMR Spektrometer beurteilen, die meiner Ansicht nach gut sind.
+  Fakultät. Der Campus ist aufgeteilt in Nord und Süd. Der Nordcampus
+  (naturwissenschaftliche Fakultät) ist noch sehr altmodisch, zieht jedoch bald
+  in ein neues Gebäude um. Bezüglich der Ausstattung kann ich nur die NMR
+  Spektrometer beurteilen, die meiner Ansicht nach gut sind (Bruker BioSpin
+  Serie).
   
+* Außerhalb von Sydney
+  Ich persönlich finde Sydney als Stadt nicht außerordentlich schön. Die
+  Suburbs haben am Anfang zum Teil einen gewissen Charme, aber generell ist der Baustil
+  und die Atmosphäre in der Stadt nicht so gemütlich.
+  Diesbezüglich hat mir Melbourne sehr viel besser gefallen.
+  Diese Stadt ist generell einfach schöner.
+  Außerdem gibt es dort schönere Museen und die Preise sind etwas niedriger, insbesondere für Kaffee und Essen.
+  Der Stadt wird nachgesagt, dass es dort den besten Kaffee in Australien gibt. Ich kann diese Einschätzung nicht
+  empirisch unterstützen, aber der Kaffee ist deutlich besser und günstiger als in Sydney.
+
+
 
 
