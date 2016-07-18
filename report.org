@@ -1,11 +1,11 @@
 #+TITLE:Bachelorarbeit an der Western Sydney University, Australien
 #+LATEX_CLASS: koma-article
-#+LATEX_CLASS_OPTIONS:
-#+LATEX_HEADER:
+#+LATEX_CLASS_OPTIONS: 
+#+LATEX_HEADER:\usepackage{fontspec} \KOMAoptions{BCOR=3mm} \usepackage[ngerman]{babel} \usepackage[ngerman]{datetime} \recalctypearea
 #+LATEX_HEADER_EXTRA:
 #+DESCRIPTION: 
 #+KEYWORDS:
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:nil date:nil
 #+SUBTITLE: Ein Erfahrungsbericht
 #+DATE: \today
 #+AUTHOR:Aaron Rebmann
@@ -34,7 +34,101 @@ Tatsächlich erhielt ich die Bestätigung so schnell, dass ich bis ca. zwei Mona
 Ich erhielt maximal zehn Sekunden nach Absenden des Antrags zwei recht unauffällige Emails, eine Anmeldebestätigung und eine Bestätigung zur Annahme des Antrags.
 Ich hielt beide Emails für Anmeldebestätigungen und ignorierte sie darum vorerst.
 Dass sich im Anhang einer der Emails die Unterlagen zum Visum befanden, fand ich erst heraus als mein Vater darauf beharrte diese Emails zu lesen.
+Ich habe mir für den Fall, dass ich in Australien Auto fahren will auch einen internationalen Führerschein ausstellen lassen. Das hat 20 € gekostet und (ohne die Fahrzeiten zur Kreisverwaltung) ca. eine Stunde gedauert.
+Spezielle Impfungen sind für Australien nicht notwendig, also dürfte es ausreichend sein, ca. einen Monat vor Reiseantritt mit einem Arzt zu sprechen und einen Rundumcheck zu machen.
+Ein Konto habe ich bei der Deutschen Bank eingerichtet, da diese mit der Australischen Bank Westpac eine Kooperation hat, sodass man mit einer Deutsche Bank Karte in Australien an Westpac Automaten kostenlos Geld abheben kann.
+Ich habe ca. eine Woche vor Reiseantritt einen Koffeinentzug durchgeführt, da ich normalerweise viel Kaffee trinke. Um die resultierenden Kopfschmerzen nicht während dem Flug, den ich lieber schlafend verbringen wollte, aushalten zu müssen war das die beste Option.
+
+* Der Flug
+  Ich bin mit Air India mit Zwischenstopp in Neu Delhi nach Sydney geflogen.
+  Air India hat eine sehr angenehme Economy class mit gemütlicher indirekter Beleuchtung, recht großer, aktueller Filmauswahl und leckerem (manchmal scharfem) Essen.
+  Um den Jetlag zu minimieren hatte ich, wie erwähnt, geplant sehr viel zu schlafen. Dafür habe ich mir eine hochwertige Schlafmaske zugelegt (für ca. 10 € zu haben, z.B. Marke Kelana).
+  Der Flug war dadurch insgesamt recht angenehm.
+
+* Ankunft in Australien
+  Am internationalen Flughafen angekommen war ich froh, von einem meiner
+  betreueenden Professoren abgeholt zu werden. Abgesehen von der hohen Temperatur
+  wurde ich direkt vom öffentlichen Verkehrssystem in Sydney überrascht.  Dort
+  gibt es keine Papier-Bahntickets sondern nur noch die sogenannte Opal-Card.
+  Das ist eine Art EC-Karte für öffentliche Verkehrsmittel, die man in Sydney auf
+  jeden Fall braucht um solche zu benutzen.  Man kommt gar nicht bis zu den
+  Bahnsteigen ohne eine solche Karte zu kaufen.  Glücklicherweise bezahlt man nur
+  den Betrag, den man auf dieser Karte haben möchte.  Man kann mit dieser Karte
+  dann sämtliche öffentlichen Verkehrsmittel (Bus, Bahn, Fähre, ...) benutzen.
+  Zum Flughafentransfer ist allerdings zu sagen, dass es hier eine Steuer gibt,
+  sodass Fahrten vom und zum Flughafen deutlich teurer als andere Fahrten sind,
+  sie kosten ca. 15 $, normalerweise zahlt man für kurze Fahrten 2-3 $ und für
+  längere Fahrten ca. 5 $.
+  
+* Wohnungssuche
+  In Sydney (und Suburbs, ich habe in Parramatta gewohnt, weil dort auch die
+  Universität ist) ist Wohnraum sehr teuer. Ich hatte das Glück, dass ich bis
+  ich einen Unterschlupf gefunden hatte bei den betreueenden Professoren wohnen
+  konnte. Eine Wohnung zu mieten habe ich schnell aufgegeben, weil das mein
+  Budget völlig gesprengt hätte. Zudem brauchte ich eine Wohnung mit
+  grundlegender Einrichtung, was ebenfalls nicht zu finden war.  Der Kauf von
+  Möbeln zusätzlich zu der extrem hohen Miete wäre absolut unmöglich gewesen.
+  Darum habe ich auf [[https://flatmates.com.au/][Flatmates.com.au]] nach einer WG gesucht, und nach zwei
+  Wochen eine geeignete gefunden.  Auch das war nicht günstig, aber gerade noch
+  im Budget und darum habe ich nicht lange überlegt.  Es ist beim Stöbern in
+  Anzeigen zu beachten, dass die Miete immer pro Woche angegeben wird.  Dies
+  kann zu Beginn sehr einschüchternd wirken, weil die Preise *nicht* ca. ein
+  viertel von einer typischen deutschen Monatsmiete betragen. Zu Nebenkosten
+  kann ich leider nichts sagen, weil ich beim Besitzer der Wohnung eine
+  Pauschalmiete gezahlt habe.
+
+* Einkaufen und Essen in Australien
+  In Australien und ganz besonders in Sydney ist Essen extrem teuer.
+  Insbesondere wer sich gesund und ausgewogen ernähren will muss tief in die
+  Tasche greifen.  Dabei ist es fast egal ob man zu Coles, Woolworths oder Aldi
+  geht.  Ich kann keine zufriedenstellende Strategie benennen damit umzugehen,
+  außer: Beim Essen nicht so sehr aufs Geld schauen und sich auf das günstige
+  Essen in Deutschland freuen. Der Vorteil der sich dennoch ergibt ist, dass
+  man zuweilen Restaurants findet, in denen man nicht viel teurer isst als wenn
+  man selbst kochen würde. Dies gilt zumindest für die Restaurants, die ihre
+  Küche nicht zur Kunstform hochstilisieren und mit sehr ausgefallenen (meist
+  sehr leckeren) Kreationen ihre Preise in die Höhe bzw. Portionsgrößen nach
+  unten treiben.
+  Die typische Australische Küche ist, abgesehen vom Rindfleisch auf das die Australier sehr stolz sind,
+  sehr asiatisch geprägt.
+  Hier wird deutlich stärker differenziert als ich das von Deutschland gewohnt bin.
+  Es gibt nicht nur spezifische Restaurants für jedes Land im Asiatischen Raum (China, Japan, Thailand, Vietnam, ...) 
+  sondern auch für einzelne Regionen in diesen Ländern.
+  Ein paar typische Australische Speisen konnte ich dennoch identifizieren:
+
+  - Toastbrot mit Avocado zum Frühstück
+  - Vegemite (Hefeextrakt mit Gewürzen, in etwa vergleichbar mit Maggi Würze, aber als Paste)
 
 
+  Sonstige Konsumgüter wie Kleidung und Elektronik sind in sämtlichen
+  Preisklassen zu haben. Manche touristische Aktivitäten sind wiederum sehr
+  teuer, beispielsweise der "Bridge climb" auf der Hafenbrücke in Sydney kostet ca. 300 $.
+  
+* Sydney
+  Abgesehen von den offensichtlichen Sehenswürdigkeiten in Sydney (Oper,
+  Hafenbrücke) ist auf jeden Fall der Taronga Zoo zu empfehlen. Dort nur darauf
+  achten, nicht die 50 $ für ein Foto mit einem Koala zu investieren, dafür
+  geht man besser in den kleineren Featherdale Wildlife-Park in Blacktown, wo
+  das Foto mit Koala im Eintrittspreis inbegriffen ist.  Ansonsten lohnen sich
+  Spaziergänge durch die Suburbs von Sydney (z.B. Parramatta, Glebe,
+  Paddington), wo man sympathische kleine Geschäfte, auch subkulturell
+  angehaucht, Märkte und günstigere Restaurants, zum Teil mit Livemusik,
+  findet. Die Strände zu besuchen ist im Sommer auch eine schöne Aktivität,
+  dort gibt es viel Auswahl, weswegen es sinnvoll ist sich zunächst durch
+  Benutzung des Strandwanderweges der am Coogee Beach beginnt einen Überblick zu verschaffen.
+  
+
+* Die Western Sydney University
+  Über das eigentliche Universitätsleben an der Western Sydney University kann
+  ich nicht viel sagen, da ich nur als Forscher in einer kleinen
+  Forschungsgruppe war und keinerlei Vorlesungen hatte. Ich habe jedoch von
+  anderen deutschen Studenten gehört, dass es auch Kooperationen mit deutschen
+  Universitäten gibt, jedoch (noch) nicht für die naturwissenschaftliche
+  Fakultät.
+  Der Campus ist aufgeteilt in Nord und Süd.
+  Der Nordcampus (naturwissenschaftliche Fakultät) ist noch sehr altmodisch, zieht jedoch bald in
+  ein neues Gebäude um.
+  Bezüglich der Ausstattung kann ich nur die NMR Spektrometer beurteilen, die meiner Ansicht nach gut sind.
+  
 
 
