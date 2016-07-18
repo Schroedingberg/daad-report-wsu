@@ -1,3 +1,4 @@
+#+TITLE:Bachelorarbeit an der Western Sydney University, Australien
 #+LATEX_CLASS: koma-article
 #+LATEX_CLASS_OPTIONS:
 #+LATEX_HEADER:
@@ -5,13 +6,34 @@
 #+DESCRIPTION: 
 #+KEYWORDS:
 #+OPTIONS: toc:nil
-#+SUBTITLE:
+#+SUBTITLE: Ein Erfahrungsbericht
 #+DATE: \today
-
-* Bachelorarbeit an der Western Sydney University, Australien
+#+AUTHOR:Aaron Rebmann
 Ich habe im Sommersemester meine Bachelorarbeit im Fach Wirtschaftschemie an
-der Western Sydney University in Australien (als Student an der Hochschule Fresenius, Idstein)
-geschrieben bzw. die entsprechende Forschungsarbeit geleistet.
+der Western Sydney University in Australien (als Student an der Hochschule
+Fresenius, Idstein) geschrieben bzw. die entsprechende Forschungsarbeit
+geleistet. Dabei habe ich einige Erfahrungen gemacht, die ich im Folgenden
+gerne teilen möchte.
+
+* Vorbereitung auf die Reise
+Meine betreunden Professoren auf der Seite der Western Sydney University haben
+mir den Rat gegeben, dass der einfachste Weg ein Visum für einen Aufenthalt von
+ca. sechs Monaten ein working holiday visum sei.  Ich habe mich für eben diese
+Lösung entschieden was sich als die richtige Entscheidung herausgestellt hat.
+Um Überraschungen zu vermeiden halte ich es dennoch für wichtig zu schildern
+wie das Erhalten eines solchen Visums abläuft.
+Zunächst muss man sich natürlich anmelden.
+In dem Webformular muss man eine sehr genaue Befragung über sich ergehen lassen.
+Da ich recht perfektionistisch bin und auch etwas Angst hatte das Visum nicht zu bekommen, habe ich ca. zwei Stunden für das Ausfüllen des Antrags gebraucht.
+Meiner Meinung nach sollte ungefähr soviel Zeit auch investiert werden, denn eine Ablehnung kann ärgerliche Konsequenzen (Sperrung, Behördengänge, etc.) nach sich ziehen.
+Meine Empfehlung wenn es doch, warum auch immer, schnell gehen soll:
+Man kann fast überall nein antworten, es gibt viele Fragen zu Vorstrafen, internationalen Haftbefehlen, etc.
+Das Visum kostet ungefähr 400 € pro Kopf, was mich ein wenig geärgert hat, da ich ja Aufgrund der Deadline für die Bachelorarbeit (13. Juni) das Visum nicht einmal voll ausschöpfen konnte.
+Zudem scheint die Verarbeitung des Antrags keine manuelle Arbeit zu erfordern.
+Tatsächlich erhielt ich die Bestätigung so schnell, dass ich bis ca. zwei Monate nach Erhalt nicht wusste, dass ich das Visum schon habe.
+Ich erhielt maximal zehn Sekunden nach Absenden des Antrags zwei recht unauffällige Emails, eine Anmeldebestätigung und eine Bestätigung zur Annahme des Antrags.
+Ich hielt beide Emails für Anmeldebestätigungen und ignorierte sie darum vorerst.
+Dass sich im Anhang einer der Emails die Unterlagen zum Visum befanden, fand ich erst heraus als mein Vater darauf beharrte diese Emails zu lesen.
 
 
 
