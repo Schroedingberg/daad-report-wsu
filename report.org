@@ -1,6 +1,6 @@
 #+TITLE:Bachelorarbeit an der Western Sydney University, Australien
 #+LATEX_CLASS: koma-article
-#+LATEX_CLASS_OPTIONS: 
+#+LATEX_CLASS_OPTIONS: [paper=a4]
 #+LATEX_HEADER:\usepackage{fontspec} \KOMAoptions{BCOR=3mm} \usepackage[ngerman]{babel} \usepackage{layouts}
 #+LATEX_HEADER_EXTRA:
 #+DESCRIPTION: Erfahrungsbericht für PROMOS/DAAD
